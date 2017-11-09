@@ -1,2 +1,2 @@
 # leetcode
-Leetcode code practice
+Code practice in [Leetcode](https://leetcode.com/problemset/all)
