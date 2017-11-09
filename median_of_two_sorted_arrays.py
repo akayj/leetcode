@@ -26,3 +26,11 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: float
         """
+        pass  # TODO
+
+
+nums1 = [1, 3]
+nums2 = [2]
+
+solution = Solution()
+print solution.findMedianSortedArrays(nums1, nums2)
